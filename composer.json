@@ -1,6 +1,6 @@
 {
-    "name": "rennokki/befriended",
-    "description": "Eloquent Befriended brings social media-like features like following, blocking and filtering content based on following or blocked models.",
+    "name": "AlperenElbasan/befriended",
+    "description": "This is neededed because Renokki stopped supporting befriended.",
     "keywords": [
         "eloquent",
         "laravel",
